@@ -9,10 +9,7 @@ This is a simple Tic-Tac-Toe game implemented as a web application using HTML, C
 - Simple and responsive user interface.
 - Game state is reset after a win or draw.
 
-## Screenshots
-![Screenshot 1](screenshot1.png)
-*Game Board*
-
+ 
 ## Technologies Used
 - **HTML**: Markup for the game interface.
 - **CSS**: Styling the game interface for a clean and responsive design.
